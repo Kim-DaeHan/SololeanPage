@@ -1,0 +1,23 @@
+.search-input-wrapper{
+  display: flex;
+  height: 34px;
+
+  .search-input{
+    display: block;
+    width: 290px;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 0 9px;
+  }
+
+  .search-input-btn{
+    width: 50px;
+    height: 100%;
+    display: block;
+
+    img{
+      width: auto;
+      height: 100%;
+    }
+  }
+}

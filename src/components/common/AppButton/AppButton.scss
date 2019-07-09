@@ -1,0 +1,15 @@
+.appbutton{
+  background-color: #1abc9c;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: bold;
+  height: 34px;
+
+  &:active{
+    background-color: #2dcfaa
+  }
+}
